@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main();
+int main()
  {
     int n;
     printf("enter any numder:\n");
@@ -11,4 +11,4 @@ int main();
     return 0;
     
  }
- 
+
